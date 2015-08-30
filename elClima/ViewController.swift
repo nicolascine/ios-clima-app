@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        let forecastUrl = "https://api.forecast.io/forecast/147668651b9bb0b37fede24eb61d0c05/37.8267,-122.423"
+        let forecastURL = "https://api.forecast.io/forecast/147668651b9bb0b37fede24eb61d0c05/37.8267,-122.423"
     
     }
 
